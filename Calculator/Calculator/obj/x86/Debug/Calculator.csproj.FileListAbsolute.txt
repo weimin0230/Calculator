@@ -1,0 +1,4 @@
+D:\Calculator\Calculator\bin\Debug\Calculator.exe
+D:\Calculator\Calculator\bin\Debug\Calculator.pdb
+D:\Calculator\Calculator\obj\x86\Debug\Calculator.exe
+D:\Calculator\Calculator\obj\x86\Debug\Calculator.pdb
